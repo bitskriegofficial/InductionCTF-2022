@@ -1,0 +1,82 @@
+ 17           0 LOAD_CONST               1 ('0123456789abcdefghijklmnopqrstuvwxyz')
+              2 STORE_FAST               0 (alphabets)
+
+ 18           4 LOAD_GLOBAL              0 (print)
+              6 LOAD_CONST               2 ('BITSCTF{')
+              8 LOAD_FAST                0 (alphabets)
+             10 LOAD_CONST               3 (28)
+             12 BINARY_SUBSCR
+             14 BINARY_ADD
+             16 LOAD_FAST                0 (alphabets)
+             18 LOAD_CONST               4 (23)
+             20 BINARY_SUBSCR
+             22 BINARY_ADD
+             24 LOAD_FAST                0 (alphabets)
+             26 LOAD_CONST               5 (4)
+             28 BINARY_SUBSCR
+             30 BINARY_ADD
+             32 LOAD_FAST                0 (alphabets)
+             34 LOAD_CONST               6 (20)
+             36 BINARY_SUBSCR
+             38 BINARY_ADD
+             40 LOAD_FAST                0 (alphabets)
+             42 LOAD_CONST               7 (3)
+             44 BINARY_SUBSCR
+             46 BINARY_ADD
+             48 LOAD_CONST               8 ('_')
+             50 BINARY_ADD
+             52 LOAD_FAST                0 (alphabets)
+             54 LOAD_CONST               9 (13)
+             56 BINARY_SUBSCR
+             58 BINARY_ADD
+             60 LOAD_FAST                0 (alphabets)
+             62 LOAD_CONST              10 (18)
+             64 BINARY_SUBSCR
+             66 BINARY_ADD
+             68 LOAD_FAST                0 (alphabets)
+             70 LOAD_CONST              11 (5)
+             72 BINARY_SUBSCR
+             74 BINARY_ADD
+             76 LOAD_FAST                0 (alphabets)
+             78 LOAD_CONST              12 (10)
+             80 BINARY_SUBSCR
+             82 BINARY_ADD
+             84 LOAD_FAST                0 (alphabets)
+             86 LOAD_CONST               3 (28)
+             88 BINARY_SUBSCR
+             90 BINARY_ADD
+             92 LOAD_FAST                0 (alphabets)
+             94 LOAD_CONST              11 (5)
+             96 BINARY_SUBSCR
+             98 BINARY_ADD
+            100 LOAD_FAST                0 (alphabets)
+            102 LOAD_CONST              13 (14)
+            104 BINARY_SUBSCR
+            106 BINARY_ADD
+            108 LOAD_FAST                0 (alphabets)
+            110 LOAD_CONST              14 (22)
+            112 BINARY_SUBSCR
+            114 BINARY_ADD
+            116 LOAD_FAST                0 (alphabets)
+            118 LOAD_CONST              15 (11)
+            120 BINARY_SUBSCR
+            122 BINARY_ADD
+            124 LOAD_FAST                0 (alphabets)
+            126 LOAD_CONST              16 (21)
+            128 BINARY_SUBSCR
+            130 BINARY_ADD
+            132 LOAD_FAST                0 (alphabets)
+            134 LOAD_CONST               7 (3)
+            136 BINARY_SUBSCR
+            138 BINARY_ADD
+            140 LOAD_FAST                0 (alphabets)
+            142 LOAD_CONST               9 (13)
+            144 BINARY_SUBSCR
+            146 BINARY_ADD
+            148 LOAD_CONST              17 ('}')
+            150 BINARY_ADD
+            152 CALL_FUNCTION            1
+            154 POP_TOP
+            156 LOAD_CONST               0 (None)
+            158 RETURN_VALUE
+None
