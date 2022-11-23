@@ -1,9 +1,10 @@
 # Cat me baby one more time
 
-strings
+binwalk
 
 ## Chall
 
+
 ## Flag
 
-BITSCTF{rU5t_rul3s}
+BITSCTF{w4v3s_b3tt3r_th4n_0as15}
