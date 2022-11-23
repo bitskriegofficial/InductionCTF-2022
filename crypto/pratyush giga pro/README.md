@@ -6,6 +6,8 @@ Passphrase is challenge name
 
 ## Chall
 
+Pratyush loves to go by the name of riftk in the land of FOSS.
+Access is granted to those who know the title.
 
 ## Author
 
