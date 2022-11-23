@@ -8,6 +8,10 @@ I have protected my password using a very based encryption.
 
 QklUU0NURntiNFNlRF8zTkNyWVA3MTBOfQ
 
+## Author
+
+eigengravy
+
 ## Flag
 
 BITSCTF{b4SeD_3NCrYP710N}

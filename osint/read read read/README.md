@@ -10,6 +10,10 @@ Where should I go next?
 
 Note: Flag includes only letters, numbers and '.'"
 
+## Author
+
+jaytau, eigengravy
+
 ## Flag
 
 BITSCTF{bunk.exodus.revealed}

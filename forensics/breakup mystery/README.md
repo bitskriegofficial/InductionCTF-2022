@@ -8,6 +8,10 @@ Wonder woman broke up with Kratos after seeing this picture of them painted by K
 
 https://kratos-wonderwoman-breakup.netlify.app/
 
+## Author
+
+m1k3_0xm0l
+
 ## Flag
 
 BITSCTF{1_@m_@n_@th135t}

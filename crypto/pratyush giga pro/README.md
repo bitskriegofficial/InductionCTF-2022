@@ -6,6 +6,11 @@ Passphrase is challenge name
 
 ## Chall
 
+
+## Author
+
+jaytau
+
 ## Flag
 
 BITSCTF{pr377y_600d_@_pr1v4cy}
