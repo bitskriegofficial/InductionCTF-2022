@@ -79,4 +79,3 @@
             154 POP_TOP
             156 LOAD_CONST               0 (None)
             158 RETURN_VALUE
-None
