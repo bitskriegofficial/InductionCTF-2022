@@ -1,5 +1,7 @@
 # Breakup Mystery
 
+Steg + Base64
+
 ## Chall
 
 Wonder woman broke up with Kratos after seeing this picture of them painted by Kratos. Could you tell what instigated her to take this decision?  
