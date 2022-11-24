@@ -1,0 +1,72 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+.bg {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  width: 400px;
+  height: 400px;
+  padding: 50px;
+  background-color: aqua;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: justify;
+  letter-spacing: 3px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.form-control {
+    margin: 0.5rem;
+    background-color: rgba(255, 255, 255, 0);
+    width: 10rem;
+    color: black;
+    padding: 1rem 2rem;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+    text-align: center;
+  }
+
+  .answer {
+    display: none;
+    width: 12rem;
+    height: 7rem;
+    padding: 1rem;
+    background-color: black;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    gap: 1px;
+  }
+
+  .link {
+    margin: 0.5rem;
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    width: 100px;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-radius: 2rem;
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+    text-align: center;
+  }
