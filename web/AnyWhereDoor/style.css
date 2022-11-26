@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden
+  }
+
+h1{
+  font-size: 50px;
+  font-family: monospace;
+}
+
+.image1{
+  display: inline-block;
+  padding-top:2vw;
+}
+.image2{
+  display: inline-block;
+  padding-top:3vw;
+}
+
+.i1{
+  padding-right: 2vw;
+}
+.i4{
+  padding-right: 2vw;
+}
+.i2{
+  padding-right: 2vw;
+}
+.i5{
+  padding-right: 2vw;
+}
