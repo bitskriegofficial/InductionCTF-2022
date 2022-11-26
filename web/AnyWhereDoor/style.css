@@ -1,7 +1,8 @@
-html, body {
+html {
   margin: 0;
   height: 100%;
-  overflow: hidden
+  overflow-x: hidden;
+  overflow-y: scroll;
   }
 
 h1{
@@ -11,22 +12,22 @@ h1{
 
 .image1{
   display: inline-block;
-  padding-top:2vw;
+  padding-top:1vw;
 }
 .image2{
   display: inline-block;
-  padding-top:3vw;
+  padding-top:2vw;
 }
 
 .i1{
-  padding-right: 2vw;
+  margin-right: 2vw;
 }
 .i4{
-  padding-right: 2vw;
+  margin-right: 2vw;
 }
 .i2{
-  padding-right: 2vw;
+  margin-right: 2vw;
 }
 .i5{
-  padding-right: 2vw;
+  margin-right: 2vw;
 }
